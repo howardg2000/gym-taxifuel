@@ -1,7 +1,0 @@
-README.md
-setup.py
-gym_taxifuel.egg-info/PKG-INFO
-gym_taxifuel.egg-info/SOURCES.txt
-gym_taxifuel.egg-info/dependency_links.txt
-gym_taxifuel.egg-info/requires.txt
-gym_taxifuel.egg-info/top_level.txt
